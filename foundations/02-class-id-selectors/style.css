@@ -1,0 +1,23 @@
+p{
+
+    background-color: rgb(197, 110, 124);
+    font-family: Verdana, sans-serif, 'DejaVu Sans'
+    
+}
+
+#fid{
+
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+
+}
+
+.cooler-class{
+    font-size: 24px;
+}
+
+#green-bg{
+    background-color: rgb(94, 207, 94);
+    font-weight: bold;
+    font-size: 24px;
+}
